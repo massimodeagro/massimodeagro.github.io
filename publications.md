@@ -1,9 +1,11 @@
 ---
 title: Publications
 layout: page
+bibliography_list_attributes:
+    reversed: "reversed"
 ---
 
-1-. **De Agrò, M.**, Rößler, D. C., Kim, K., & Shamble, P. S. (2021). Perception of biological motion in point-light displays by jumping spiders. PLOS Biology. https://doi.org/10.1371/journal.pbio.3001172
+1. **De Agrò, M.**, Rößler, D. C., Kim, K., & Shamble, P. S. (2021). Perception of biological motion in point-light displays by jumping spiders. PLOS Biology. https://doi.org/10.1371/journal.pbio.3001172
 
 1. Rößler D.C., **De Agrò, M.**, Biundo E., Shamble P.S. (2021) Hanging by a thread: unusual nocturnal resting behaviour in a jumping spider. Frontiers in Zoology 18:23. https://doi.org/10.1186/s12983-021-00410-3
 
