@@ -18,7 +18,7 @@ site-keywords: research, spider cognition, spider vision, spider eye, spoder
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: assets/images/hero.webp
+heroimage: https://massimodeagro.github.io/assets/images/hero.webp
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
