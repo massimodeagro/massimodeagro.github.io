@@ -5,6 +5,10 @@ bibliography_list_attributes:
     reversed: "reversed"
 ---
 
+<p style='text-align: left;'>
+    
+{: reversed="reversed"}
+    
 1. **De Agrò, M.**, Rößler, D. C., Kim, K., & Shamble, P. S. (2021). Perception of biological motion in point-light displays by jumping spiders. PLOS Biology. https://doi.org/10.1371/journal.pbio.3001172
 
 1. Rößler D.C., **De Agrò, M.**, Biundo E., Shamble P.S. (2021) Hanging by a thread: unusual nocturnal resting behaviour in a jumping spider. Frontiers in Zoology 18:23. https://doi.org/10.1186/s12983-021-00410-3
@@ -24,3 +28,5 @@ bibliography_list_attributes:
 1. Oberhauser, F. B., Koch, A., **De Agrò, M.**, Rex, K., & Czaczkes, T. J. (2020). Ants resort to heuristics when facing relational-learning tasks they cannot solve. Proceedings of the Royal Society B: Biological Sciences. https://doi.org/10.1098/rspb.2020.1262
 
 1. **De Agrò, M.**, Regolin, L., & Moretto, E. (2017). Visual Discrimination Learning in the Jumping Spider Phidippus regius. Animal Behavior and Cognition. https://doi.org/10.26451/abc/.04.04.02.2017
+
+ </p>
