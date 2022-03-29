@@ -4,8 +4,6 @@ layout: page
 bibliography_list_attributes:
     reversed: "reversed"
 ---
-
-<p style='text-align: left;'>
     
 {: reversed="reversed"}
     
@@ -28,5 +26,3 @@ bibliography_list_attributes:
 1. Oberhauser, F. B., Koch, A., **De Agrò, M.**, Rex, K., & Czaczkes, T. J. (2020). Ants resort to heuristics when facing relational-learning tasks they cannot solve. Proceedings of the Royal Society B: Biological Sciences. https://doi.org/10.1098/rspb.2020.1262
 
 1. **De Agrò, M.**, Regolin, L., & Moretto, E. (2017). Visual Discrimination Learning in the Jumping Spider Phidippus regius. Animal Behavior and Cognition. https://doi.org/10.26451/abc/.04.04.02.2017
-
- </p>
