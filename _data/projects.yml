@@ -16,14 +16,34 @@
 - name: Irrational risk aversion in an ant. (2021)
   link: https://doi.org/10.1007/s10071-021-01516-1
   image: https://massimodeagro.github.io/assets/images/articles/10071_2021_1516_Fig2_HTML.jpg
-  description: De Agrò, M., Grimwade, D., Bach, R., Czaczkes, T.J., Animal Cognition.
+  description: De Agrò, M., Grimwade, D., Bach, R., Czaczkes, T.J., Animal Cognition
 
 - name: Lateralized Declarative-Like Memory for Conditional Spatial Information in Domestic Chicks (Gallus gallus). (2021)
   link: https://doi.org/10.3390/sym13050906
   image: https://massimodeagro.github.io/assets/images/articles/symmetry-13-00906-g002.png
-  description: Loconsole M., Mascalzoni E., Daisley J.N., De Agrò, M., Vallortigara, G., Regolin, L., Symmetry.
+  description: Loconsole M., Mascalzoni E., Daisley J.N., De Agrò, M., Vallortigara, G., Regolin, L., Symmetry
 
 - name:  Young chicks rely on symmetry/asymmetry in perceptual grouping to discriminate sets of elements. (2021)
   link: https://doi.org/10.1098/rspb.2021.1570
   image: https://massimodeagro.github.io/assets/images/articles/prime.jpg
   description: Loconsole, M., De Agrò, M., & Regolin, L., Proceedings B
+
+- name:  SPiDbox. Design and validation of an open-source “Skinner-box” system for the study of jumping spiders. (2020)
+  link: https://doi.org/10.1016/j.jneumeth.2020.108925
+  image: https://massimodeagro.github.io/assets/images/articles/spid.png
+  description: De Agrò, M., Journal of Neuroscience Methods
+
+- name: Multi-modal cue integration in the black garden ant. (2020)
+  link: https://doi.org/10.1007/s10071-020-01360-9
+  image: https://www.researchgate.net/publication/339364691/figure/fig2/AS:960339940216835@1605974292239/Schematic-representation-of-the-procedure-in-experiment-2-For-an-aerial-view-of-the-full_W640.jpg
+  description: De Agrò, M., Oberhauser, F. B., Loconsole, M., Galli, G., Dal Cin, F., Moretto, E., & Regolin, L., Animal Cognition
+
+- name: Ants resort to heuristics when facing relational-learning tasks they cannot solve. (2020)
+  link: https://doi.org/10.1098/rspb.2020.1262
+  image: https://royalsocietypublishing.org/cms/asset/0f9d8d56-1ca1-4d84-93ed-ae4fa6790b64/rspb20201262f02.jpg
+  description:  Oberhauser, F. B., Koch, A., De Agrò, M., Rex, K., & Czaczkes, T. J., Proceedings B
+
+- name: Visual Discrimination Learning in the Jumping Spider Phidippus regius. (2017)
+  link: https://doi.org/10.26451/abc/.04.04.02.2017
+  image: https://massimodeagro.github.io/assets/images/articles/xo.png
+  description:  De Agrò, M., Regolin, L., & Moretto, E., Animal Behavior and Cognition
