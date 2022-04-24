@@ -1,4 +1,7 @@
-# Curriculum Vitae
+---
+title: Curriculum Vitae
+layout: page
+---
 
 ## Current Position
 *Mar 2022 - Today*
