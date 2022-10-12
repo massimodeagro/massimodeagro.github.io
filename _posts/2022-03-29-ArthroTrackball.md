@@ -19,13 +19,18 @@ I have developed a python package leveraging multithreading and the internal clo
 
 ## Features:
 - Recording from usb cameras, with timestamps from every frame as a list
+
 - Displaying of visual stimuli (based on [psychopy](https://www.psychopy.org/))
+
   - Including pre-programmed stimuli types (looming, translating, appearing)
   - support any number of monitors in any orientation (specified in a cartesian plane)
+
 - Controlling serial devices:
+
   - Sphere tracker based on optic mice
   - Reward dispenser
   - LED based ring around the sphere
+
 - holistic data logging and compressing into a single files, independently from the number of modules loaded
 
 ## Dependencies:
