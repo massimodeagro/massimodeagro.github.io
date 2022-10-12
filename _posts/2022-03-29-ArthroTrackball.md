@@ -3,10 +3,6 @@ title: ArthroTrackball -  A python package to control a spherical treadmill for 
 layout: post
 post-image: "https://massimodeagro.github.io/assets/images/hero.webp"
 description: The package will be capable of controlling cameras (for experiment recording), displays (for stimuli presentation), devices (for recording trackball, reward dispenser). These are timed and syncronized.
-tags:
-- python
-- behaviour
-- technology
 ---
 
 For years I have been interested in [jumping spiders vision](https://massimodeagro.github.io/blog/ArthroTrackball). However, testing these animals had many limitations, with the most prominent being the presentation of artificial stimuli at a known angle, but without impeding the spiders' motion.
@@ -17,7 +13,7 @@ The use of spherical treadmill unlocked for me the possibility to [test many hyp
 
 I have developed a python package leveraging multithreading and the internal clock of the computer to simultaneously record and present data, saving everything in a compressed format ready to be analyzed together.
 
-#
+- - -
 
 ## Features:
 - Recording from usb cameras, with timestamps from every frame as a list
@@ -37,7 +33,7 @@ I have developed a python package leveraging multithreading and the internal clo
 ![logo](https://img.shields.io/badge/pyserial-devices-yellow "pyserial")
 ![logo](https://img.shields.io/badge/psychopy-stimuli-yellow "psychopy")
 
-#
+- - -
 
 ## State of development
 I plan to publish the first version of package on github by mid 2023. At the current version, the software is functional but lacks documentation. 
