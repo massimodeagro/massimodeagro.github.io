@@ -7,7 +7,7 @@ description: The package will be capable of controlling cameras (for experiment 
 
 <img style="float: left; max-width:500px;   margin-right: 10px; " src="https://massimodeagro.github.io/assets/images/hero.webp">
 
-For years I have been interested in [jumping spiders vision](https://massimodeagro.github.io/blog/ArthroTrackball). However, testing these animals had many limitations, with the most prominent being the presentation of artificial stimuli at a known angle, but without impeding the spiders' motion.
+For years I have been interested in [jumping spiders vision](https://massimodeagro.github.io/blog/SpiderVision). However, testing these animals had many limitations, with the most prominent being the presentation of artificial stimuli at a known angle, but without impeding the spiders' motion.
 
 The use of spherical treadmill unlocked for me the possibility to [test many hypothesis](https://massimodeagro.github.io/publications)! In such a system, the animal is affixed ad placed onto a frictionless ball. The ball movement are registered and used to derive the intended motion of the animal. Shoutout to the excellent [FicTrac](https://github.com/rjdmoore/fictrac) software, which is what I mostly use to record the sphere rotations.
 
