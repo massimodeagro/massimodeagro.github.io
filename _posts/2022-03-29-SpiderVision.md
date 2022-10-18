@@ -5,7 +5,7 @@ post-image: "https://massimodeagro.github.io/assets/images/SpiderEye.png"
 description: 
 ---
 
-<img style="float: left; max-width:500px;   margin-right: 10px; " src="https://massimodeagro.github.io/assets/images/SpiderEye.png">
+<img style="float: left; max-width:300px;   margin-right: 10px; " src="https://massimodeagro.github.io/assets/images/SpiderEye.png">
 
 Jumping spiders' visual system is remarkable. Distributed across 8 eyes, these animals can see almost 360° around them. The two principal eyes (Anterior Medial Eyes, AMEs) have a narrow, boomerang shaped visual field. These eyes are specialized in figure recognition. The other three pairs of secondary eyes (Antero Lateral, Postero Medial, Postero Lateral Eyes, ALEs, PMEs, PLEs) have a wider field, but lower resolution. These are specialized in motion detection.
 
