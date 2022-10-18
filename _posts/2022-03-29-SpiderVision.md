@@ -1,5 +1,5 @@
 ---
-title: The jumping spider visual cognition
+title: Jumping spiders' visual cognition
 layout: post
 post-image: "https://massimodeagro.github.io/assets/images/SpiderEye.png"
 description: 
