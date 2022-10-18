@@ -1,19 +1,21 @@
 ---
 title: Solutions in miniature brains
 layout: post
-post-image: "https://massimodeagro.github.io/assets/images/hero.webp"
+post-image: "https://massimodeagro.github.io/assets/images/articles/logmem.png"
 description: 
 ---
 
-<img style="float: left; max-width:400px;   margin-right: 10px; " src="https://massimodeagro.github.io/assets/images/hero.webp">
+<img style="float: left; max-width:400px;   margin-right: 10px; " src="https://massimodeagro.github.io/assets/images/articles/logmem.png">
 
-Jumping spiders' visual system is remarkable. Distributed across 8 eyes, these animals can see almost 360° around them. The two principal eyes (Anterior Medial Eyes, AMEs) have a narrow, boomerang shaped visual field. These eyes are specialized in figure recognition. The other three pairs of secondary eyes (Antero Lateral, Postero Medial, Postero Lateral Eyes, ALEs, PMEs, PLEs) have a wider field, but lower resolution. These are specialized in motion detection.
+Some animals have bigger brain than others. With a limited neuronal count, there should come some computational limitations: with less nodes, power should be reduced. However, this is not what we observe! Miniature animals (i.e. arthropods) can produce a plethora of complex behaviors, even with their limited brain capacity. We now know that through a process of optimization, even few nodes can produce efficient circuits, capable of replicating results, and as such behavior and cognition, comparable with the ones of bigger animals. 
 
-I am interested in how much this division of labour goes deep, and I am expecially curious about the secondary eyes. I have found that jumping spiders can discriminate biological from non-biological motion using only this set [(see publication list)](https://massimodeagro.github.io/publications). Today, I am testing the behaviour of these animals upon the detection of different stimuli (looming objects, flashes, etc.) and other tasks of visual cognition (attention). All the experiments are enabled by the use of a [specialized spherical treatmill](https://massimodeagro.github.io/blog/ArthroTrackball).
+I am interested in understanding which optimization is employed by small brained animals. Specifically, I study perception and decision making in ants, bees and spiders, to see which solutions they came up with during their evolutionary history. These include the use of heuristics in decision making, logarithmic rather than linear perception (but sacrificing only sensory modality that does not require high precision) and others.
 
 ## Relevant publications
 
 - [De Agrò, M., Rößler, D. C., Kim, K., & Shamble, P. S. Perception of biological motion in point-light displays by jumping spiders. (2021) PLOS Biology](https://doi.org/10.1371/journal.pbio.3001172)
-- [Rößler D.C., De Agrò, M., Kim, K., Shamble P.S. Static visual predator recognition in jumping spiders. (2021) Functional Ecology](https://doi.org/10.1111/1365-2435.13953)
-- [De Agrò, M. SPiDbox. Design and validation of an open-source “Skinner-box” system for the study of jumping spiders. (2020) Journal of Neuroscience Methods](https://doi.org/10.1016/j.jneumeth.2020.108925)
-- [De Agrò, M., Regolin, L., & Moretto, E. Visual Discrimination Learning in the Jumping Spider Phidippus regius. (2017) Animal Behavior and Cognition](https://doi.org/10.26451/abc/.04.04.02.2017)
+- [De Agrò, M., Matschunas, C., Czaczkes, T. Bundling and segregation affects “liking”, but not “wanting”, in an insect (2022) bioRxiv](https://doi.org/10.1101/2022.05.24.493357)
+- [Kienitz, M., Czaczkes, T., De Agrò, M. Bees differentiate sucrose solution from water at a distance. (2022) bioRxiv](https://doi.org/10.1101/2022.05.20.492611)
+- [De Agrò, M., Grimwade, D., Bach, R., Czaczkes, T.J. Irrational risk aversion in an ant. (2021) Animal Cognition](https://doi.org/10.1007/s10071-021-01516-1)
+- [De Agrò, M., Oberhauser, F. B., Loconsole, M., Galli, G., Dal Cin, F., Moretto, E., & Regolin, L. Multi-modal cue integration in the black garden ant. (2020) Animal Cognition](https://doi.org/10.1007/s10071-020-01360-9)
+- [Oberhauser, F. B., Koch, A., De Agrò, M., Rex, K., & Czaczkes, T. J. Ants resort to heuristics when facing relational-learning tasks they cannot solve. (2020) Proceedings B](https://doi.org/10.1098/rspb.2020.1262)
