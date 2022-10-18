@@ -11,6 +11,8 @@ Jumping spiders' visual system is remarkable. Distributed across 8 eyes, these a
 
 I am interested in how much this division of labour goes deep, and I am expecially curious about the secondary eyes. I have found that jumping spiders can discriminate biological from non-biological motion using only this set [(see publication list)](https://massimodeagro.github.io/publications). Today, I am testing the behaviour of these animals upon the detection of different stimuli (looming objects, flashes, etc.) and other tasks of visual cognition (attention). All the experiments are enabled by the use of a [specialized spherical treatmill](https://massimodeagro.github.io/blog/ArthroTrackball).
 
+- - -
+
 ## Relevant publications
 
 - [De Agrò, M., Rößler, D. C., Kim, K., & Shamble, P. S. Perception of biological motion in point-light displays by jumping spiders. (2021) PLOS Biology](https://doi.org/10.1371/journal.pbio.3001172)
