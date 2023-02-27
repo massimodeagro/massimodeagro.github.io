@@ -14,7 +14,7 @@ I am interested in understanding which optimization is employed by small brained
 ## Relevant publications
 
 - [De Agrò, M., Rößler, D. C., Kim, K., & Shamble, P. S. Perception of biological motion in point-light displays by jumping spiders. (2021) PLOS Biology](https://doi.org/10.1371/journal.pbio.3001172)
-- [De Agrò, M., Matschunas, C., Czaczkes, T. Bundling and segregation affects “liking”, but not “wanting”, in an insect (2022) bioRxiv](https://doi.org/10.1101/2022.05.24.493357)
+- [De Agrò, M., Matschunas, C., Czaczkes, T. Bundling and segregation affect pheromone deposition, but not choice, in an ant (2022) eLife](https://doi.org/10.1101/2022.05.24.493357)
 - [Kienitz, M., Czaczkes, T., De Agrò, M. Bees differentiate sucrose solution from water at a distance. (2022) bioRxiv](https://doi.org/10.1101/2022.05.20.492611)
 - [De Agrò, M., Grimwade, D., Bach, R., Czaczkes, T.J. Irrational risk aversion in an ant. (2021) Animal Cognition](https://doi.org/10.1007/s10071-021-01516-1)
 - [De Agrò, M., Oberhauser, F. B., Loconsole, M., Galli, G., Dal Cin, F., Moretto, E., & Regolin, L. Multi-modal cue integration in the black garden ant. (2020) Animal Cognition](https://doi.org/10.1007/s10071-020-01360-9)
