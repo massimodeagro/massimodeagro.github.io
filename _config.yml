@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Massimo De Agrò
 # Description of the Site
-description: Attaching bugs to computers since 2017
+description: Attaching bugs to computers since 2020
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -47,7 +47,7 @@ author-name: Massimo De Agrò
 # URL for the Image of the Author
 author-image: https://massimodeagro.github.io/assets/images/photo.webp
 # 60 Words About the Author
-author-about: Post-doc researcher at the department of Biorobotics, Sant Anna School of Advanced Studies. I study cognition and perception in arthropods using automated procedures. I am fascinated by how minuscule brains solve the problem of limited neural capacity when faced with complex stimuli. My research tries to identify processes of simplification and clever circuitry.
+author-about: "Post-doc researcher at The BioRobotics Institute, Sant'Anna School of Advanced Studies. I study cognition and perception in arthropods using automated procedures. I am fascinated by how minuscule brains solve the problem of limited neural capacity when faced with complex stimuli. My research tries to identify processes of simplification and clever circuitry."
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://massimodeagro.github.io
 
