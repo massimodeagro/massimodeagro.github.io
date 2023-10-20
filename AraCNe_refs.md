@@ -3,8 +3,6 @@ title: AraCNe References
 layout: post
 ---
 
-# State of the art
-
 **[1]**	J. J. DiCarlo, D. Zoccolan, e N. C. Rust, «How Does the Brain Solve Visual Object Recognition?», Neuron, vol. 73, fasc. 3, pp. 415–434, feb. 2012, doi: 10.1016/j.neuron.2012.01.010.
 
 **[2]**	D. H. Hubel e T. N. Wiesel, «Receptive fields, binocular interaction and functional architecture in the cat’s visual cortex», J. Physiol., vol. 160, fasc. 1, pp. 106-154.2, gen. 1962.
