@@ -5,8 +5,6 @@ layout: page
 
 # State of the art
 
-<div style="text-align: left"> 
-
 - [1]	J. J. DiCarlo, D. Zoccolan, e N. C. Rust, «How Does the Brain Solve Visual Object Recognition?», Neuron, vol. 73, fasc. 3, pp. 415–434, feb. 2012, doi: 10.1016/j.neuron.2012.01.010.
 
 
@@ -216,5 +214,3 @@ layout: page
 
 - [70]	G. A. Orban, D. Van Essen, e W. Vanduffel, «Comparative mapping of higher visual areas in monkeys and humans», Trends Cogn. Sci., vol. 8, fasc. 7, pp. 315–324, lug. 2004, doi: 10.1016/j.tics.2004.05.009.
 
-
-</div>
