@@ -35,7 +35,7 @@ layout: post
 **[10]**	P. Jiang, D. Ergu, F. Liu, Y. Cai, e B. Ma, «A Review of Yolo Algorithm Developments», Procedia Comput. Sci., vol. 199, pp. 1066–1073, gen. 2022, doi: 10.1016/j.procs.2022.01.135.
 
 
-**[11]**	R. Girshick, «Fast R-CNN», presentato al Proceedings of the IEEE International Conference on Computer Vision, 2015, pp. 1440–1448. Consultato: 5 ottobre 2022. **[Online]**. Disponibile su: https://openaccess.thecvf.com/content_iccv_2015/html/Girshick_Fast_R-CNN_ICCV_2015_paper.html
+**[11]**	R. Girshick, «Fast R-CNN», presentato al Proceedings of the IEEE International Conference on Computer Vision, 2015, pp. 1440–1448.
 
 
 **[12]**	B. Li et al., «Full-Cycle Energy Consumption Benchmark for Low-Carbon Computer Vision». arXiv, 11 ottobre 2021. doi: 10.48550/arXiv.2108.13465.
@@ -56,8 +56,7 @@ layout: post
 **[17]**	D. F. Rolfe e G. C. Brown, «Cellular energy utilization and molecular origin of standard metabolic rate in mammals», Physiol. Rev., vol. 77, fasc. 3, pp. 731–758, lug. 1997, doi: 10.1152/physrev.1997.77.3.731.
 
 
-**[18]**	R. F. Butterworth, «Brain Energy Metabolism», in Basic Neurochemistry: Molecular, Cellular and Medical Aspects. 6th edition, Lippincott-Raven, 1999. Consultato: 17 ottobre 2023. **[Online]**. Disponibile su: https://www.ncbi.nlm.nih.gov/books/NBK28124/
-
+**[18]**	R. F. Butterworth, «Brain Energy Metabolism», in Basic Neurochemistry: Molecular, Cellular and Medical Aspects. 6th edition, Lippincott-Raven, 1999.
 
 **[19]**	D. Sol, S. Bacher, S. M. Reader, e L. Lefebvre, «Brain Size Predicts the Success of Mammal Species Introduced into Novel Environments.», Am. Nat., vol. 172, fasc. S1, pp. S63–S71, lug. 2008, doi: 10.1086/588304.
 
@@ -167,7 +166,7 @@ layout: post
 **[54]**	D. B. Zurek e X. J. Nelson, «Saccadic tracking of targets mediated by the anterior-lateral eyes of jumping spiders», J. Comp. Physiol. A, vol. 198, fasc. 6, pp. 411–417, giu. 2012, doi: 10.1007/s00359-012-0719-0.
 
 
-**[55]**	L. Spano, S. M. Long, e E. M. Jakob, «Secondary eyes mediate the response to looming objects in jumping spiders (Phidippus audax, Salticidae)», Biol. Lett., vol. 8, fasc. 6, pp. 949–951, dic. 2012, doi: 10.1098/rsbl.2012.0716.
+**[55]**	L. Spano, S. M. Long, e E. M. Jakob, «Secondary eyes mediate the response to looming objects in jumping spiders (*Phidippus audax*, Salticidae)», Biol. Lett., vol. 8, fasc. 6, pp. 949–951, dic. 2012, doi: 10.1098/rsbl.2012.0716.
 
 
 **[56]**	M. Bruce et al., «Attention and distraction in the modular visual system of a jumping spider», J. Exp. Biol., vol. 224, fasc. 8, apr. 2021, doi: 10.1242/jeb.231035.
@@ -203,10 +202,10 @@ layout: post
 **[66]**	D. E. Hill, «The structure of the central nervous system of jumping spiders of the genus Phidippus (Araneae:Salticidae)», Master Thesis, Oregon State University, 1975.
 
 
-**[67]**	F. G. Barth, A Spider’s World: Senses and Behavior. Berlin Heidelberg: Springer-Verlag, 2002. Consultato: 7 maggio 2019. **[Online]**. Disponibile su: https://www.springer.com/la/book/9783540420460
+**[67]**	F. G. Barth, A Spider’s World: Senses and Behavior. Berlin Heidelberg: Springer-Verlag, 2002.
 
 
-**[68]**	C. Doeffinger, V. Hartenstein, e A. Stollewerk, «Compartmentalization of the precheliceral neuroectoderm in the spider Cupiennius salei: Development of the arcuate body, optic ganglia, and mushroom body», J. Comp. Neurol., vol. 518, fasc. 13, pp. 2612–2632, 2010, doi: 10.1002/cne.22355.
+**[68]**	C. Doeffinger, V. Hartenstein, e A. Stollewerk, «Compartmentalization of the precheliceral neuroectoderm in the spider *Cupiennius salei*: Development of the arcuate body, optic ganglia, and mushroom body», J. Comp. Neurol., vol. 518, fasc. 13, pp. 2612–2632, 2010, doi: 10.1002/cne.22355.
 
 
 **[69]**	G. A. Orban, «Higher order visual processing in macaque extrastriate cortex», Physiol. Rev., vol. 88, fasc. 1, pp. 59–89, gen. 2008, doi: 10.1152/physrev.00008.2007.
