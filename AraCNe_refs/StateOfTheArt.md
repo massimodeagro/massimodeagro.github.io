@@ -1,9 +1,9 @@
 ---
-title: AraCNe References - State of the art
+title: AraCNe References
 type: page
 ---
 
-# AraCNe References - State of the art
+# State of the art
 
 [1]	J. J. DiCarlo, D. Zoccolan, e N. C. Rust, «How Does the Brain Solve Visual Object Recognition?», Neuron, vol. 73, fasc. 3, pp. 415–434, feb. 2012, doi: 10.1016/j.neuron.2012.01.010.
 
