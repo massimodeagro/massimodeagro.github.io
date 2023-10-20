@@ -1,6 +1,6 @@
 ---
 title: AraCNe References
-layout: page
+layout: post
 ---
 
 # State of the art
