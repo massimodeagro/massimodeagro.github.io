@@ -1,5 +1,5 @@
 ---
-title: AraCNe References
+title: AraCNe References - Section C
 layout: post
 ---
 
@@ -111,7 +111,7 @@ layout: post
 
 **[54]**	D. B. Zurek e X. J. Nelson, «Saccadic tracking of targets mediated by the anterior-lateral eyes of jumping spiders», J. Comp. Physiol. A, vol. 198, fasc. 6, pp. 411–417, giu. 2012, doi: 10.1007/s00359-012-0719-0.
 
-**[55]**	L. Spano, S. M. Long, e E. M. Jakob, «Secondary eyes mediate the response to looming objects in jumping spiders (*Phidippus audax*, Salticidae)», Biol. Lett., vol. 8, fasc. 6, pp. 949–951, dic. 2012, doi: 10.1098/rsbl.2012.0716.
+**[55]**	L. Spano, S. M. Long, e E. M. Jakob, «Secondary eyes mediate the response to looming objects in jumping spiders (Phidippus audax, Salticidae)», Biol. Lett., vol. 8, fasc. 6, pp. 949–951, dic. 2012, doi: 10.1098/rsbl.2012.0716.
 
 **[56]**	M. Bruce et al., «Attention and distraction in the modular visual system of a jumping spider», J. Exp. Biol., vol. 224, fasc. 8, apr. 2021, doi: 10.1242/jeb.231035.
 
@@ -137,9 +137,94 @@ layout: post
 
 **[67]**	F. G. Barth, A Spider’s World: Senses and Behavior. Berlin Heidelberg: Springer-Verlag, 2002.
 
-**[68]**	C. Doeffinger, V. Hartenstein, e A. Stollewerk, «Compartmentalization of the precheliceral neuroectoderm in the spider *Cupiennius salei*: Development of the arcuate body, optic ganglia, and mushroom body», J. Comp. Neurol., vol. 518, fasc. 13, pp. 2612–2632, 2010, doi: 10.1002/cne.22355.
+**[68]**	C. Doeffinger, V. Hartenstein, e A. Stollewerk, «Compartmentalization of the precheliceral neuroectoderm in the spider Cupiennius salei: Development of the arcuate body, optic ganglia, and mushroom body», J. Comp. Neurol., vol. 518, fasc. 13, pp. 2612–2632, 2010, doi: 10.1002/cne.22355.
 
 **[69]**	G. A. Orban, «Higher order visual processing in macaque extrastriate cortex», Physiol. Rev., vol. 88, fasc. 1, pp. 59–89, gen. 2008, doi: 10.1152/physrev.00008.2007.
 
 **[70]**	G. A. Orban, D. Van Essen, e W. Vanduffel, «Comparative mapping of higher visual areas in monkeys and humans», Trends Cogn. Sci., vol. 8, fasc. 7, pp. 315–324, lug. 2004, doi: 10.1016/j.tics.2004.05.009.
 
+**[71]**	A. Grunewald e H. Neumann, «Detection of First and Second Order Motion», in Advances in Neural Information Processing Systems, M. Jordan, M. Kearns, e S. Solla, A c. di, MIT Press, 1997.
+
+**[72]**	R. Allard e J. Faubert, «First- and second-order motion mechanisms are distinct at low but common at high temporal frequencies», J. Vis., vol. 8, fasc. 2, p. 12, feb. 2008, doi: 10.1167/8.2.12.
+
+**[73]**	M. Rizzo, M. Nawrot, J. Sparks, e J. Dawson, «First and second-order-motion perception after focal human brain lesions», Vision Res., vol. 48, fasc. 26, pp. 2682–2688, nov. 2008, doi: 10.1016/j.visres.2008.03.005.
+
+**[74]**	L. M. Vaina e S. Soloviev, «First-order and second-order motion: neurological evidence for neuroanatomically distinct systems», Prog. Brain Res., vol. 144, pp. 197–212, 2004, doi: 10.1016/S0079-6123(03)14414-7.
+
+**[75]**	A. T. Smith, M. W. Greenlee, K. D. Singh, F. M. Kraemer, e J. Hennig, «The Processing of First- and Second-Order Motion in Human Visual Cortex Assessed by Functional Magnetic Resonance Imaging (fMRI)», J. Neurosci., vol. 18, fasc. 10, pp. 3816–3830, mag. 1998, doi: 10.1523/JNEUROSCI.18-10-03816.1998.
+
+**[76]**	M. Dürsteler, «A Common Framework for the Analysis of Complex Motion? Standstill and Capture Illusions», Front. Hum. Neurosci., vol. 8, p. 999, dic. 2014, doi: 10.3389/fnhum.2014.00999.
+
+**[77]**	A. S. Mueller e B. Timney, «Visual Acceleration Perception for Simple and Complex Motion Patterns.», PLoS One, vol. 11, fasc. 2, p. 0149413, gen. 2016, doi: 10.1371/journal.pone.0149413.
+
+**[78]**	P. J. Mineault, F. A. Khawaja, D. A. Butts, e C. C. Pack, «Hierarchical processing of complex motion along the primate dorsal visual pathway», Proc. Natl. Acad. Sci., vol. 109, fasc. 16, pp. E972–E980, apr. 2012, doi: 10.1073/pnas.1115685109.
+
+**[79]**	N. I. Beydizada, F. Cannone, S. Pekár, D. Baracchi, e M. D. Agrò, «Habituation to visual stimuli is personality-independent in a jumping spider». bioRxiv, p. 2023.05.09.539210, 16 maggio 2023. doi: 10.1101/2023.05.09.539210.
+
+**[80]**	L. K. Scheffer et al., «A connectome and analysis of the adult Drosophila central brain», eLife, vol. 9, p. e57443, set. 2020, doi: 10.7554/eLife.57443.
+
+**[81]**	S. Dorkenwald et al., «Neuronal wiring diagram of an adult brain». bioRxiv, p. 2023.06.27.546656, 30 giugno 2023. doi: 10.1101/2023.06.27.546656.
+
+**[82]**	L. Gruber et al., «The unique synaptic circuitry of specialized olfactory glomeruli in Drosophila melanogaster», eLife, vol. 12, ago. 2023, doi: 10.7554/eLife.88824.
+
+**[83]**	S. Berg et al., «ilastik: interactive machine learning for (bio)image analysis», Nat. Methods, vol. 16, fasc. 12, Art. fasc. 12, dic. 2019, doi: 10.1038/s41592-019-0582-9.
+
+**[84]**	D. Stalling, M. Westerhoff, e H.-C. Hege, «amira: A Highly Interactive System for Visual Data Analysis», Elsevier, 2005, pp. 749–767. doi: 10.1016/B978-012387582-2/50040-X.
+
+**[85]**	S. Saalfeld, A. Cardona, V. Hartenstein, e P. Tomančák, «CATMAID: collaborative annotation toolkit for massive amounts of image data», Bioinformatics, vol. 25, fasc. 15, pp. 1984–1986, ago. 2009, doi: 10.1093/bioinformatics/btp266.
+
+**[86]**	K. S. Babu e F. Barth, «Neuroanatomy of the central nervous system of the wandering spider, Cupiennius salei (Arachnida, Araneida)», Zoomorphology, vol. 104, pp. 344–359, 1984, doi: 10.1007/BF00312185.
+
+**[87]**	P. S. Shamble et al., «Airborne Acoustic Perception by a Jumping Spider», Curr. Biol., vol. 26, fasc. 21, pp. 2913–2920, nov. 2016, doi: 10.1016/j.cub.2016.08.041.
+
+**[88]**	R. Q. Quiroga, Z. Nadasdy, e Y. Ben-Shaul, «Unsupervised spike detection and sorting with wavelets and superparamagnetic clustering», Neural Comput., vol. 16, fasc. 8, pp. 1661–1687, ago. 2004, doi: 10.1162/089976604774201631.
+
+**[89]**	R. N. Lemon, S. N. Baker, e A. Kraskov, «Classification of Cortical Neurons by Spike Shape and the Identification of Pyramidal Neurons», Cereb. Cortex N. Y. N 1991, vol. 31, fasc. 11, pp. 5131–5138, ott. 2021, doi: 10.1093/cercor/bhab147.
+
+**[90]**	F. Zeldenrust, S. de Knecht, W. J. Wadman, S. Denève, e B. Gutkin, «Estimating the Information Extracted by a Single Spiking Neuron from a Continuous Input Time Series», Front. Comput. Neurosci., vol. 11, 2017.
+
+**[91]**	A. C. Paulk, J. Phillips-Portillo, A. M. Dacks, J.-M. Fellous, e W. Gronenberg, «The Processing of Color, Motion, and Stimulus Timing Are Anatomically Segregated in the Bumblebee Brain», J. Neurosci., vol. 28, fasc. 25, pp. 6319–6332, giu. 2008, doi: 10.1523/JNEUROSCI.1196-08.2008.
+
+**[92]**	L. Fahse, C. Wissel, e V. Grimm, «Reconciling classical and individual‐based approaches in theoretical population ecology: A protocol for extracting population parameters from individual‐based models», Am. Nat., vol. 152, fasc. 6, Art. fasc. 6, dic. 1998, doi: 10.1086/286212.
+
+**[93]**	F. Liu et al., «Deep learning for neural decoding in motor cortex», J. Neural Eng., vol. 19, fasc. 5, p. 056021, set. 2022, doi: 10.1088/1741-2552/ac8fb5.
+
+**[94]**	K. Yamazaki, V.-K. Vo-Ho, D. Bulsara, e N. Le, «Spiking Neural Networks and Their Applications: A Review», Brain Sci., vol. 12, fasc. 7, p. 863, giu. 2022, doi: 10.3390/brainsci12070863.
+
+**[95]**	N. K. Kasabov, Time-Space, Spiking Neural Networks and Brain-Inspired Artificial Intelligence, vol. 7. in Springer Series on Bio- and Neurosystems, vol. 7. Berlin, Heidelberg: Springer, 2019. doi: 10.1007/978-3-662-57715-8.
+
+**[96]**	C. Lee, A. K. Kosta, A. Z. Zhu, K. Chaney, K. Daniilidis, e K. Roy, «Spike-FlowNet: Event-Based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks», in Computer Vision – ECCV 2020, A. Vedaldi, H. Bischof, T. Brox, e J.-M. Frahm, A c. di, in Lecture Notes in Computer Science. Cham: Springer International Publishing, 2020, pp. 366–382. doi: 10.1007/978-3-030-58526-6_22.
+
+**[97]**	F. Paredes-Valles, K. Y. W. Scheper, e G. C. H. E. de Croon, «Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception», IEEE Trans. Pattern Anal. Mach. Intell., vol. 42, fasc. 8, pp. 2051–2064, ago. 2020, doi: 10.1109/TPAMI.2019.2903179.
+
+**[98]**	A. Gupta, A. Anpalagan, L. Guan, e A. S. Khwaja, «Deep learning for object detection and scene perception in self-driving cars: Survey, challenges, and open issues», Array, vol. 10, p. 100057, lug. 2021, doi: 10.1016/j.array.2021.100057.
+
+**[99]**	H. Saari et al., «Unmanned Aerial Vehicle (UAV) operated spectral camera system for forest and agriculture applications», in Remote Sensing for Agriculture, Ecosystems, and Hydrology XIII, SPIE, ott. 2011, pp. 170–184. doi: 10.1117/12.897585.
+
+**[100]**	P. Velusamy, S. Rajendran, R. K. Mahendran, S. Naseer, M. Shafiq, e J.-G. Choi, «Unmanned Aerial Vehicles (UAV) in Precision Agriculture: Applications and Challenges», Energies, vol. 15, fasc. 1, Art. fasc. 1, gen. 2022, doi: 10.3390/en15010217.
+
+**[101]**	S. Francis, T. Dam, S. Anavatti, e M. A. Garratt, «Adaptive Terrain Perception and Decision-Making Systems for Agile Mobile Robots in Dynamic Search and Rescue Scenarios». Preprints, 13 ottobre 2023. doi: 10.20944/preprints202310.0738.v1.
+
+**[102]**	Y. Liu e G. Nejat, «Robotic Urban Search and Rescue: A Survey from the Control Perspective», J. Intell. Robot. Syst., vol. 72, fasc. 2, pp. 147–165, nov. 2013, doi: 10.1007/s10846-013-9822-x.
+
+**[103]**	R. W. Wolcott e R. M. Eustice, «Robust LIDAR localization using multiresolution Gaussian mixture maps for autonomous driving», Int. J. Robot. Res., vol. 36, fasc. 3, pp. 292–319, mar. 2017, doi: 10.1177/0278364917696568.
+
+**[104]**	D. Feng, L. Rosenbaum, e K. Dietmayer, «Towards Safe Autonomous Driving: Capture Uncertainty in the Deep Neural Network For Lidar 3D Vehicle Detection», in 2018 21st International Conference on Intelligent Transportation Systems (ITSC), nov. 2018, pp. 3266–3273. doi: 10.1109/ITSC.2018.8569814.
+
+**[105]**	F. Perazzi, J. Pont-Tuset, B. McWilliams, L. Van Gool, M. Gross, e A. Sorkine-Hornung, «A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation», presentato al Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2016, pp. 724–732.
+
+**[106]**	X. Ren e M. Philipose, «Egocentric recognition of handled objects: Benchmark and analysis», in 2009 IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops, giu. 2009, pp. 1–8. doi: 10.1109/CVPRW.2009.5204360.
+
+**[107]**	S. Singh, C. Arora, e C. V. Jawahar, «First Person Action Recognition Using Deep Learned Descriptors», presentato al Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2016, pp. 2620–2628.
+
+**[108]**	Y.-H. Tseng e S.-S. Jan, «Combination of computer vision detection and segmentation for autonomous driving», in 2018 IEEE/ION Position, Location and Navigation Symposium (PLANS), apr. 2018, pp. 1047–1052. doi: 10.1109/PLANS.2018.8373485.
+
+**[109]**	C. Liu, Y. Tao, J. Liang, K. Li, e Y. Chen, «Object Detection Based on YOLO Network», in 2018 IEEE 4th Information Technology and Mechatronics Engineering Conference (ITOEC), dic. 2018, pp. 799–803. doi: 10.1109/ITOEC.2018.8740604.
+
+**[110]**	S. Ren, K. He, R. Girshick, e J. Sun, «Faster r-cnn: Towards real-time object detection with region proposal networks. arXiv 2015», ArXiv Prepr. ArXiv150601497, 2015.
+
+**[111]**	G. Gallego et al., «Event-Based Vision: A Survey», IEEE Trans. Pattern Anal. Mach. Intell., vol. 44, fasc. 1, pp. 154–180, gen. 2022, doi: 10.1109/TPAMI.2020.3008413.
+
+**[112]**	H. Rebecq, R. Ranftl, V. Koltun, e D. Scaramuzza, «High Speed and High Dynamic Range Video with an Event Camera», IEEE Trans. Pattern Anal. Mach. Intell., vol. 43, fasc. 6, pp. 1964–1980, giu. 2021, doi: 10.1109/TPAMI.2019.2963386.
+
+**[113]**	D. Gehrig, A. Loquercio, K. Derpanis, e D. Scaramuzza, «End-to-End Learning of Representations for Asynchronous Event-Based Data», in 2019 IEEE/CVF International Conference on Computer Vision (ICCV), ott. 2019, pp. 5632–5642. doi: 10.1109/ICCV.2019.00573.
