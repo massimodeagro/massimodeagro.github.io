@@ -1,5 +1,5 @@
 ---
-title: AraCNe References - Section C
+title: AraCNe References - Section B
 layout: post
 ---
 
