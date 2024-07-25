@@ -1,3 +1,8 @@
+- name: Eye-specific detection and a multi-eye integration model of biological motion perception (2023)
+  image: https://massimodeagro.github.io/assets/images/articles/BioCompMod.png 
+  link: https://doi.org/10.1242/jeb.247061
+  description: De Agrò, M.,  Rößler D.C., Shamble, P.S., JEB
+  
 - name: Three-dimensional body reconstruction enables quantification of liquid consumption in small invertebrates (2024)
   image: https://massimodeagro.github.io/assets/images/articles/AbdomenSwell.png 
   link: https://doi.org/10.1101/2024.06.14.599002
@@ -17,11 +22,6 @@
   image: https://massimodeagro.github.io/assets/images/articles/AntCaff.png 
   link: https://doi.org/10.1016/j.isci.2024.109935
   description: Galante, E., De Agrò, M., Koch, A., Kau, S., Czaczkes, T., iScience
-  
-- name: Eye-specific detection and a multi-eye integration model of biological motion perception (2023)
-  image: https://massimodeagro.github.io/assets/images/articles/BioCompMod.png 
-  link: https://doi.org/10.1101/2023.09.24.559175
-  description: De Agrò, M.,  Rößler D.C., Shamble, P.S., bioRxiv
   
 - name: Study replication - Shape discrimination in a conditioning procedure on the jumping spider Phidippus regius (2023)
   image: https://massimodeagro.github.io/assets/images/articles/xo.png
