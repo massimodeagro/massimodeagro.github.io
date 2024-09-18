@@ -1,3 +1,8 @@
+- name: Jumping spiders are not fooled by the peripheral drift illusion (2024)
+  image: https://massimodeagro.github.io/assets/images/articles/PeripheralDrift.png 
+  link: https://doi.org/10.1101/2024.09.17.613447
+  description: De Agrò, M.,  Vallortigara, G., Falotico, E., BioRxiv
+  
 - name: Eye-specific detection and a multi-eye integration model of biological motion perception (2024)
   image: https://massimodeagro.github.io/assets/images/articles/BioCompMod.png 
   link: https://doi.org/10.1242/jeb.247061
