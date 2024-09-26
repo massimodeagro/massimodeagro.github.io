@@ -43,4 +43,4 @@ I have developed a python package leveraging multithreading and the internal clo
 - - -
 
 ## State of development
-I plan to publish the first version of package on github by mid 2024. At the current version, the software is functional but lacks documentation. 
+I plan to publish the first version of package on github by the end 2024. At the current version, the software is functional but lacks documentation. 
