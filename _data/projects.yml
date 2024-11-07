@@ -1,3 +1,8 @@
+- name: Independence and synergy of spatial attention in the two visual systems of jumping spiders (2024)
+  image: https://massimodeagro.github.io/assets/images/articles/SepAtt.jpg
+  link: https://doi.org/10.1242/jeb.246199 
+  description: Loconsole, M., Ferrante, F., Giacomazzi, D., De Agrò, M., JEB
+  
 - name: Jumping spiders are not fooled by the peripheral drift illusion (2024)
   image: https://massimodeagro.github.io/assets/images/articles/PeripheralDrift.png 
   link: https://doi.org/10.1101/2024.09.17.613447
@@ -32,11 +37,6 @@
   image: https://massimodeagro.github.io/assets/images/articles/xo.png
   link: https://doi.org/10.3390/ani13142326
   description:  Mannino, E., Regolin, L., & Moretto, E., De Agrò, M., Animals
-
-- name: Separate attentional processes in the two visual systems of jumping spiders (2023)
-  image: https://massimodeagro.github.io/assets/images/articles/SepAtt.jpg
-  link: https://doi.org/10.1101/2023.04.13.536553 
-  description:  Ferrante, F., Loconsole, M., Giacomazzi, D., De Agrò, M., bioRxiv
   
 - name: Bundling and segregation affect pheromone deposition, but not choice, in an ant (2022)
   image: https://massimodeagro.github.io/assets/images/articles/logmem.png
