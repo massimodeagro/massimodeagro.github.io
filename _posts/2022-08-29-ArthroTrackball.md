@@ -19,16 +19,9 @@ I have developed a python package leveraging multithreading and the internal clo
 
 ## Features:
 - Recording from usb cameras, with timestamps from every frame as a list
-
-- Displaying of visual stimuli (based on [psychopy](https://www.psychopy.org/))
-
-  - Including pre-programmed stimuli types (looming, translating, appearing)
-  - support any number of monitors in any orientation (specified in a cartesian plane)
-
+- Stimuli presentation using opencv (video display frame by frame
 - Controlling serial devices:
-
   - Sphere tracker based on optic mice
-  - Reward dispenser
   - LED based ring around the sphere
 
 - holistic data logging and compressing into a single files, independently from the number of modules loaded
@@ -38,9 +31,8 @@ I have developed a python package leveraging multithreading and the internal clo
 ![logo](https://img.shields.io/badge/scipy-required-brightgreen "scipy")
 ![logo](https://img.shields.io/badge/opencv-cameras-yellow "opencv")
 ![logo](https://img.shields.io/badge/pyserial-devices-yellow "pyserial")
-![logo](https://img.shields.io/badge/psychopy-stimuli-yellow "psychopy")
 
 - - -
 
 ## State of development
-I plan to publish the first version of package on github by the end 2024. At the current version, the software is functional but lacks documentation. 
+I plan to publish the first version of package on github by the end 2024. The software is fully ready and documented, awaiting publication
