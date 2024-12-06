@@ -29,7 +29,7 @@ I have developed a python package leveraging multithreading and the internal clo
 ## Dependencies:
 ![logo](https://img.shields.io/badge/numpy-required-brightgreen "numpy")
 ![logo](https://img.shields.io/badge/scipy-required-brightgreen "scipy")
-![logo](https://img.shields.io/badge/opencv-cameras-yellow "opencv")
+![logo](https://img.shields.io/badge/opencv-required-brightgreen "opencv")
 ![logo](https://img.shields.io/badge/pyserial-devices-yellow "pyserial")
 
 - - -
