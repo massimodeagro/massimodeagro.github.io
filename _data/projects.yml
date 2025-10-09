@@ -1,3 +1,8 @@
+- name: No evidence for the perception of the peripheral drift illusion in jumping spiders (2025)
+  image: https://massimodeagro.github.io/assets/images/articles/PeripheralDrift.png 
+  link: https://doi.org/10.1016/j.heliyon.2025.e44016
+  description: De Agrò, M.,  Vallortigara, G., Falotico, E., Heliyon
+  
 - name: Biological point-light displays scanning by the principal eyes of a jumping spider. (2025) 
   image: https://massimodeagro.github.io/assets/images/articles/EyeMeasures.png
   link:  https://doi.org/10.1101/2025.06.23.661007
@@ -12,11 +17,6 @@
   image: https://massimodeagro.github.io/assets/images/articles/SepAtt.jpg
   link: https://doi.org/10.1242/jeb.246199 
   description: Loconsole, M., Ferrante, F., Giacomazzi, D., De Agrò, M., JEB
-  
-- name: Jumping spiders are not fooled by the peripheral drift illusion (2024)
-  image: https://massimodeagro.github.io/assets/images/articles/PeripheralDrift.png 
-  link: https://doi.org/10.1101/2024.09.17.613447
-  description: De Agrò, M.,  Vallortigara, G., Falotico, E., BioRxiv
   
 - name: Eye-specific detection and a multi-eye integration model of biological motion perception (2024)
   image: https://massimodeagro.github.io/assets/images/articles/BioCompMod.png 
