@@ -1,3 +1,13 @@
+- name: ctSpyderFields: v1.0.0 (2026)
+  image: https://github.com/massimodeagro/ctSpyderFields/blob/v1.0.0/docs/images/plotlyexample.png
+  link: https://doi.org/10.5281/zenodo.18152996
+  description: De Agrò, M., Caradonna, D., Pande, A., Falotico, E., Sumner-Rooney, L., Zenodo (GitHub)
+  
+- name: Antlion larvae follow optimality rules in body orientation during sand-tossing (2025)
+  image: https://www.biorxiv.org/content/biorxiv/early/2025/12/05/2025.12.02.691593/F1.large.jpg?width=800&height=600&carousel=1
+  link: https://doi.org/10.64898/2025.12.02.691593
+  description: Lo Bello, F., De Agrò, M., Vallortigara, G., BiorXiv
+  
 - name: No evidence for the perception of the peripheral drift illusion in jumping spiders (2025)
   image: https://massimodeagro.github.io/assets/images/articles/PeripheralDrift.png 
   link: https://doi.org/10.1016/j.heliyon.2025.e44016
