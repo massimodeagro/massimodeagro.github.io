@@ -1,3 +1,8 @@
+- name: ArthroTrackball-PMW3389 v1.0.0 (2026)
+  image: https://massimodeagro.github.io/assets/images/articles/treadmill.png
+  link: https://doi.org/10.5281/zenodo.18965681
+  description: De Agrò, M. Zenodo (GitHub)
+  
 - name: ctSpyderFields v1.0.0 (2026)
   image: https://massimodeagro.github.io/assets/images/articles/plotlyexample.png
   link: https://doi.org/10.5281/zenodo.18152996
