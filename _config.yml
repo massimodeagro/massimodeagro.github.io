@@ -2,9 +2,11 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
-# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl:
+url: 'https://massimodeagro.github.io'
+# Base URL of the Site
+baseurl: ''
+# Repository
+repository: massimodeagro/massimodeagro.github.io
 
 # Title of the Site
 title: Massimo De Agrò
