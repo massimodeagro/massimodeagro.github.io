@@ -1,3 +1,8 @@
+- name: ctSpyderFields: A Python package for visual field reconstruction in spiders (2026)
+  image: https://massimodeagro.github.io/assets/images/articles/plotlyexample.png
+  link: https://www.biorxiv.org/content/10.64898/2026.05.28.728173v1.abstract
+  description: De Agrò, M., Caradonna, D., Pande, A., Falotico, E., Sumner-Rooney, L., BioRxiv
+  
 - name: Visual detection of cryptic displays in jumping spiders (2026)
   image: https://www.biorxiv.org/content/biorxiv/early/2026/04/06/2026.04.03.716102/F3.large.jpg
   link: https://doi.org/10.64898/2026.04.03.716102 
@@ -12,11 +17,6 @@
   image: https://massimodeagro.github.io/assets/images/articles/trackball.png
   link: https://doi.org/10.5281/zenodo.18965681
   description: De Agrò, M. Zenodo (GitHub)
-  
-- name: ctSpyderFields v1.0.0 (2026)
-  image: https://massimodeagro.github.io/assets/images/articles/plotlyexample.png
-  link: https://doi.org/10.5281/zenodo.18152996
-  description: De Agrò, M., Caradonna, D., Pande, A., Falotico, E., Sumner-Rooney, L., Zenodo (GitHub)
   
 - name: No evidence for the perception of the peripheral drift illusion in jumping spiders (2025)
   image: https://massimodeagro.github.io/assets/images/articles/PeripheralDrift.png 
