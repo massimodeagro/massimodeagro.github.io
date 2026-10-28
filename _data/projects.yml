@@ -1,3 +1,8 @@
+- name: Behavioral evidence for two-stage sleep in spiders (2026)
+  image: https://www.pnas.org/cms/10.1073/pnas.2618030123/asset/5ccd6cf6-2466-44dc-9db2-5ba3e0cd2572/assets/images/large/pnas.2618030123fig05.jpg
+  link: https://doi.org/10.1073/pnas.2618030123
+  description: Geiger, N., Capelle, M.Q., Rosentreter, P., Herberstein, M.E., Bahl, A., De Agrò, M., Klein, B.A., Rößler, D.C., PNAS
+  
 - name: ctSpyderFields. A Python package for visual field reconstruction in spiders (2026)
   image: https://massimodeagro.github.io/assets/images/articles/plotlyexample.png
   link: https://www.biorxiv.org/content/10.64898/2026.05.28.728173v1.abstract
